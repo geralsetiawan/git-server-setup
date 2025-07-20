@@ -11,7 +11,7 @@ Remove any existing Git data:
 rm -rf .git
 ```
 
-> Make sure there's no leftover Git config.
+> Make sure there's no leftover Git config, including .gitignore
 
 ---
 
