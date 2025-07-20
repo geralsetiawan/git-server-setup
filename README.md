@@ -45,7 +45,9 @@ Create `.gitignore` file to ignore everything except:
 
 ---
 
-### 4. Automatically add .gitkeep to non-code folders, place it in the main folder, and run the script.
+### 4. Automatically add .gitkeep to non-code folders
+
+> place it in the main folder and run this script.
 
 #### Bash Script (`.sh`)
 
