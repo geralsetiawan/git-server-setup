@@ -115,6 +115,6 @@ git pull
 
 > Do not commit or push from the server.
 
-> Note: For the developer team, from the local environment, create a new folder, git clone the repository, and add the .gitignore file as mentioned above.
+> For the developer team from the local environment, create a new folder, git clone the repository, and add the .gitignore file as mentioned above.
 
 ---
