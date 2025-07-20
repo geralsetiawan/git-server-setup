@@ -1,8 +1,7 @@
 # Git Setup Guide for Server (Pull-Only)
 
-This guide explains how to set up a Git repository on a server that will only perform `git pull`.
 
-## ⚙️ Steps
+##  Steps
 
 ### 1. Clean Previous Git Configuration
 
